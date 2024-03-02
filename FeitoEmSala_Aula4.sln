@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeitoEmSala_Aula4", "FeitoEmSala_Aula4\FeitoEmSala_Aula4.csproj", "{1FE5B67C-0E3A-4185-9867-204908A6B2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeitoEmSala_Aula4_Console", "FeitoEmSala_Aula4_Console\FeitoEmSala_Aula4_Console.csproj", "{27BA308D-0A08-4DAE-89D5-5EC93634E95A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE5B67C-0E3A-4185-9867-204908A6B2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE5B67C-0E3A-4185-9867-204908A6B2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE5B67C-0E3A-4185-9867-204908A6B2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE5B67C-0E3A-4185-9867-204908A6B2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27BA308D-0A08-4DAE-89D5-5EC93634E95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BA308D-0A08-4DAE-89D5-5EC93634E95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BA308D-0A08-4DAE-89D5-5EC93634E95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BA308D-0A08-4DAE-89D5-5EC93634E95A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

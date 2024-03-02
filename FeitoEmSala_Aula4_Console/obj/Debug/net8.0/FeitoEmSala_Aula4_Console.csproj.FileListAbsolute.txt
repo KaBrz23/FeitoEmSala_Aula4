@@ -1,0 +1,15 @@
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/bin/Debug/net8.0/FeitoEmSala_Aula4_Console
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/bin/Debug/net8.0/FeitoEmSala_Aula4_Console.deps.json
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/bin/Debug/net8.0/FeitoEmSala_Aula4_Console.runtimeconfig.json
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/bin/Debug/net8.0/FeitoEmSala_Aula4_Console.dll
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/bin/Debug/net8.0/FeitoEmSala_Aula4_Console.pdb
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/obj/Debug/net8.0/FeitoEmSala_Aula4_Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/obj/Debug/net8.0/FeitoEmSala_Aula4_Console.AssemblyInfoInputs.cache
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/obj/Debug/net8.0/FeitoEmSala_Aula4_Console.AssemblyInfo.cs
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/obj/Debug/net8.0/FeitoEmSala_Aula4_Console.csproj.CoreCompileInputs.cache
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/obj/Debug/net8.0/FeitoEmSala_Aula4_Console.sourcelink.json
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/obj/Debug/net8.0/FeitoEmSala_Aula4_Console.dll
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/obj/Debug/net8.0/refint/FeitoEmSala_Aula4_Console.dll
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/obj/Debug/net8.0/FeitoEmSala_Aula4_Console.pdb
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/obj/Debug/net8.0/FeitoEmSala_Aula4_Console.genruntimeconfig.cache
+/home/kaue/Área de Trabalho/FIAP/2º ANO/ADVANCED BUSINESS DEVELOPMENT WITH .NET/FeitoEmSala_Aula4/FeitoEmSala_Aula4_Console/obj/Debug/net8.0/ref/FeitoEmSala_Aula4_Console.dll
